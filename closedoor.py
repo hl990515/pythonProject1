@@ -1,10 +1,6 @@
 
 
 
-def opendoor():
-
-    print('打开舱门')
-
 
 def closedoor():
 
